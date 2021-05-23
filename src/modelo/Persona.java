@@ -7,7 +7,7 @@ package modelo;
 public class Persona {
 	
 	
-	//hAkhui heztubo HadriaN
+	//hAkhui heztubo HadriaN->CON BRUNCH EYDRIAN
 	
 	String nombre;
 	int edad;
