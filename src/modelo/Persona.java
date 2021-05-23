@@ -6,6 +6,9 @@ package modelo;
  */
 public class Persona {
 	
+	
+	//hAkhui heztubo HadriaN
+	
 	String nombre;
 	int edad;
 	char sexo;
@@ -100,7 +103,7 @@ public class Persona {
 	
 	 /**
 	  * 
-	  * @param origen sirve para añadir el caracter origen
+	  * @param origen sirve para aÃ±adir el caracter origen
 	  */
 	public void setOrigen(char origen) {
 		this.origen = origen;
@@ -116,7 +119,7 @@ public class Persona {
 
 	/**
 	 * 
-	 * @param pareja sirve para añadir una pareja
+	 * @param pareja sirve para aÃ±adir una pareja
 	 */
 	public void setPareja(Persona pareja) {
 		this.pareja = pareja;
@@ -132,7 +135,7 @@ public class Persona {
 
 	/**
 	 * 
-	 * @param peso sirve para añadir el peso 
+	 * @param peso sirve para aÃ±adir el peso 
 	 */
 	public void setPeso(float peso) {
 		this.peso = peso;
@@ -148,7 +151,7 @@ public class Persona {
 
 	/**
 	 * 
-	 * @param altura sirve para añadir la altura
+	 * @param altura sirve para aÃ±adir la altura
 	 */
 	public void setAltura(int altura) {
 		this.altura = altura;
@@ -177,7 +180,7 @@ public class Persona {
 	
 	/**
 	 * 
-	 * @return devuelve el origen pero con más caracteres
+	 * @return devuelve el origen pero con mÃ¡s caracteres
 	 */
 	public String getOrigenFormatoLargo() {
 		String origenLargo = new String();
